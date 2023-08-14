@@ -66,3 +66,30 @@
     width: fit-content;
 }
 
+.two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    gap: 16px;
+}
+
+.photos {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 30px;
+}
+
+.two img {
+    height: 200px;
+    width: auto;
+    border: #262b33 solid 1px;
+    border-radius: 10px;
+}
+
+.two p {
+    font-size: 14px;
+    text-align: center;
+}
