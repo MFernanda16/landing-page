@@ -118,7 +118,7 @@ button {
 
 .four {
     background-color: #262b33;
-    margin: 40px;
+    margin: 50px 170px;
     padding: 25px;
     border-radius: 10px;
     display: flex;
@@ -129,4 +129,13 @@ button {
 
 .four p {
     font-size: 15px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #262b33;
+    color: floralwhite;
+    padding: 30px;
 }
