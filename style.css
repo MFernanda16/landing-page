@@ -59,7 +59,7 @@
     border-radius: 10px;
 }
 
-.one button {
+button {
     padding: 8px 20px;
     border-radius: 5px;
     border: none;
@@ -114,4 +114,19 @@
 .three p {
     color: lightgray;
     align-self: flex-end;
+}
+
+.four {
+    background-color: #262b33;
+    margin: 40px;
+    padding: 25px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: floralwhite;
+}
+
+.four p {
+    font-size: 15px;
 }
